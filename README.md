@@ -1,7 +1,6 @@
 # Onboarding
 Install the latest node package! Make sure npm run works. <br/>
 Install the gcloud CLI: https://cloud.google.com/sdk/docs/install <br/>
-Setup your gcloud CLI: <br/>
 gcloud auth login <br/>
 Sign in to the google account using email: dishfood01@gmail.com, password: [our favorite blind user]!! <br/>
 gcloud config set project <br/>
